@@ -1,3 +1,10 @@
+/*!
+ * shs-form-assembly v1.0.0
+ * (c) 2020 Shady Hill Studios, LLC
+ * GNU GENERAL PUBLIC LICENSE
+ * https://github.com/shadyhill/form-assembly-extensions
+ */
+
 if (document.readyState === "loading") {
     // Loading hasn't finished yet
     document.addEventListener("DOMContentLoaded", fieldGroupSizer);
