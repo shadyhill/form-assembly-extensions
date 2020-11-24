@@ -1,5 +1,5 @@
 /*!
- * shs-form-assembly v1.0.0
+ * shs-form-assembly v1.0.1
  * (c) 2020 Shady Hill Studios, LLC
  * GNU GENERAL PUBLIC LICENSE
  * https://github.com/shadyhill/form-assembly-extensions
