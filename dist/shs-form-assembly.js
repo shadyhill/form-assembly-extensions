@@ -63,6 +63,6 @@ function setFormVars() {
     var refInput = document.querySelector("input[default='fa_referrer']");
     if (refInput) {
         var ref = location.protocol + '//' + location.host + location.pathname;
-        $("input[value='fa_referrer']").attr('value', ref);
+        refInput.setAttribute('value', ref);
     }
 }
